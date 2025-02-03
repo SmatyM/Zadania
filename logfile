@@ -1,0 +1,695 @@
+2025-02-01 15:28:44.365 CET [29288] LOG:  starting PostgreSQL 17.2 on x86_64-windows, compiled by msvc-19.41.34123, 64-bit
+2025-02-01 15:28:44.368 CET [29288] LOG:  listening on IPv6 address "::1", port 5432
+2025-02-01 15:28:44.368 CET [29288] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-02-01 15:28:44.417 CET [25064] LOG:  database system was shut down at 2025-02-01 15:20:45 CET
+2025-02-01 15:28:44.435 CET [29288] LOG:  database system is ready to accept connections
+2025-02-01 15:29:41.652 CET [24408] FATAL:  role "Smaty" does not exist
+2025-02-01 15:30:31.828 CET [29080] LOG:  PID 28184 in cancel request did not match any process
+2025-02-01 15:33:44.416 CET [28776] LOG:  checkpoint starting: time
+2025-02-01 15:35:32.249 CET [28776] LOG:  checkpoint complete: wrote 977 buffers (6.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=107.713 s, sync=0.114 s, total=107.833 s; sync files=309, longest=0.002 s, average=0.001 s; distance=4560 kB, estimate=4560 kB; lsn=0/283B2F0, redo lsn=0/2815110
+2025-02-01 15:38:10.343 CET [9492] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:38:10.350 CET [5300] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:38:10.357 CET [25148] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:38:10.363 CET [8232] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:38:10.366 CET [3312] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:38:10.371 CET [11144] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:38:10.374 CET [12852] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:38:10.377 CET [6396] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:38:10.379 CET [21272] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:38:10.429 CET [15004] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:38:44.267 CET [28776] LOG:  checkpoint starting: time
+2025-02-01 15:38:49.585 CET [28776] LOG:  checkpoint complete: wrote 49 buffers (0.3%); 0 WAL file(s) added, 0 removed, 0 recycled; write=5.291 s, sync=0.014 s, total=5.319 s; sync files=40, longest=0.001 s, average=0.001 s; distance=208 kB, estimate=4125 kB; lsn=0/2849460, redo lsn=0/28493D0
+2025-02-01 15:38:52.658 CET [5820] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:38:52.661 CET [22472] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:38:52.664 CET [13968] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:38:52.747 CET [19932] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:41:16.800 CET [13524] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:41:16.802 CET [28968] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:41:16.811 CET [28596] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:41:16.816 CET [28420] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:41:16.820 CET [19912] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:41:16.824 CET [29116] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:41:16.826 CET [4244] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:41:16.872 CET [22444] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:41:16.945 CET [24640] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:48:11.203 CET [25728] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:48:11.210 CET [29088] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:48:11.216 CET [5368] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:48:11.219 CET [15208] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:48:11.224 CET [26444] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:48:11.225 CET [29220] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:48:11.280 CET [29120] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:48:31.508 CET [19400] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:48:31.514 CET [29460] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:48:31.516 CET [25332] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:48:31.520 CET [29052] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:48:31.588 CET [5820] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:48:50.804 CET [17712] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:48:50.809 CET [12464] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:48:50.811 CET [10340] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:48:50.813 CET [18712] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:48:50.814 CET [2036] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:50:03.055 CET [27068] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:50:03.060 CET [28576] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:50:03.071 CET [27604] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:50:03.076 CET [25160] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:50:03.082 CET [436] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:50:03.083 CET [24160] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:50:03.086 CET [28528] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:50:03.181 CET [19280] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:50:03.184 CET [18712] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:55:02.301 CET [5388] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:55:02.307 CET [2036] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:55:02.315 CET [12464] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:55:02.326 CET [20004] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:55:02.327 CET [21132] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:55:02.332 CET [28800] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:55:02.333 CET [27260] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:55:02.340 CET [26420] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:55:02.340 CET [21744] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:58:21.228 CET [18536] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:58:21.236 CET [25080] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:58:21.239 CET [29180] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:58:21.248 CET [24552] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:58:21.252 CET [24840] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:58:21.253 CET [24180] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:58:21.257 CET [25052] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:58:21.322 CET [21880] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:58:21.329 CET [16812] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:58:21.361 CET [27184] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:58:55.352 CET [4320] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 15:58:55.352 CET [8716] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 16:00:03.592 CET [25692] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 16:00:03.596 CET [9500] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 16:00:03.603 CET [24520] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 16:00:03.610 CET [28260] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 16:00:03.618 CET [15236] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 16:00:03.620 CET [21988] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 16:00:03.626 CET [18712] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 16:00:03.628 CET [13064] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 16:00:03.632 CET [24984] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 16:00:03.634 CET [29676] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-01 16:03:09.035 CET [29288] LOG:  received fast shutdown request
+2025-02-01 16:03:09.037 CET [6168] ERROR:  canceling statement due to user request
+2025-02-01 16:03:09.040 CET [29288] LOG:  aborting any active transactions
+2025-02-01 16:03:09.040 CET [25508] FATAL:  terminating connection due to administrator command
+2025-02-01 16:03:09.040 CET [26868] FATAL:  terminating connection due to administrator command
+2025-02-01 16:03:09.040 CET [8412] FATAL:  terminating connection due to administrator command
+2025-02-01 16:03:09.040 CET [21392] FATAL:  terminating connection due to administrator command
+2025-02-01 16:03:09.040 CET [29684] FATAL:  terminating connection due to administrator command
+2025-02-01 16:03:09.040 CET [11436] FATAL:  terminating connection due to administrator command
+2025-02-01 16:03:09.040 CET [27068] FATAL:  terminating connection due to administrator command
+2025-02-01 16:03:09.040 CET [24264] FATAL:  terminating connection due to administrator command
+2025-02-01 16:03:09.040 CET [15284] FATAL:  terminating connection due to administrator command
+2025-02-01 16:03:09.040 CET [27436] FATAL:  terminating connection due to administrator command
+2025-02-01 16:03:09.047 CET [29288] LOG:  background worker "logical replication launcher" (PID 6168) exited with exit code 1
+2025-02-01 16:03:09.065 CET [28776] LOG:  shutting down
+2025-02-01 16:03:09.066 CET [28776] LOG:  checkpoint starting: shutdown immediate
+2025-02-01 16:03:09.084 CET [28776] LOG:  checkpoint complete: wrote 13 buffers (0.1%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.006 s, sync=0.005 s, total=0.020 s; sync files=10, longest=0.001 s, average=0.001 s; distance=1 kB, estimate=3712 kB; lsn=0/2849B70, redo lsn=0/2849B70
+2025-02-01 16:03:09.097 CET [29288] LOG:  database system is shut down
+2025-02-01 16:05:15.870 CET [26988] LOG:  starting PostgreSQL 17.2 on x86_64-windows, compiled by msvc-19.41.34123, 64-bit
+2025-02-01 16:05:15.874 CET [26988] LOG:  listening on IPv6 address "::1", port 5432
+2025-02-01 16:05:15.874 CET [26988] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-02-01 16:05:15.931 CET [16788] LOG:  database system was shut down at 2025-02-01 16:03:09 CET
+2025-02-01 16:05:15.950 CET [26988] LOG:  database system is ready to accept connections
+2025-02-01 16:10:16.054 CET [18048] LOG:  checkpoint starting: time
+2025-02-01 16:10:16.411 CET [18048] LOG:  checkpoint complete: wrote 6 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.334 s, sync=0.008 s, total=0.358 s; sync files=5, longest=0.004 s, average=0.002 s; distance=1 kB, estimate=1 kB; lsn=0/284A020, redo lsn=0/2849FB0
+2025-02-01 17:12:56.820 CET [26988] LOG:  could not reserve shared memory region (addr=000001E39F520000) for child 0000000000001314: error code 487
+2025-02-01 17:28:41.818 CET [26988] LOG:  received fast shutdown request
+2025-02-01 17:28:41.820 CET [29224] ERROR:  canceling statement due to user request
+2025-02-01 17:28:41.822 CET [26988] LOG:  aborting any active transactions
+2025-02-01 17:28:41.823 CET [25784] FATAL:  terminating connection due to administrator command
+2025-02-01 17:28:41.823 CET [28416] FATAL:  terminating connection due to administrator command
+2025-02-01 17:28:41.823 CET [27728] FATAL:  terminating connection due to administrator command
+2025-02-01 17:28:41.823 CET [29060] FATAL:  terminating connection due to administrator command
+2025-02-01 17:28:41.823 CET [24752] FATAL:  terminating connection due to administrator command
+2025-02-01 17:28:41.823 CET [6824] FATAL:  terminating connection due to administrator command
+2025-02-01 17:28:41.823 CET [28760] FATAL:  terminating connection due to administrator command
+2025-02-01 17:28:41.823 CET [29196] FATAL:  terminating connection due to administrator command
+2025-02-01 17:28:41.823 CET [21792] FATAL:  terminating connection due to administrator command
+2025-02-01 17:28:41.823 CET [4444] FATAL:  terminating connection due to administrator command
+2025-02-01 17:28:41.826 CET [26988] LOG:  background worker "logical replication launcher" (PID 29224) exited with exit code 1
+2025-02-01 17:28:41.831 CET [18048] LOG:  shutting down
+2025-02-01 17:28:41.832 CET [18048] LOG:  checkpoint starting: shutdown immediate
+2025-02-01 17:28:41.838 CET [18048] LOG:  checkpoint complete: wrote 1 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.001 s, sync=0.001 s, total=0.008 s; sync files=1, longest=0.001 s, average=0.001 s; distance=0 kB, estimate=0 kB; lsn=0/284A0D0, redo lsn=0/284A0D0
+2025-02-01 17:28:41.847 CET [26988] LOG:  database system is shut down
+2025-02-01 17:39:08.390 CET [28036] LOG:  starting PostgreSQL 17.2 on x86_64-windows, compiled by msvc-19.41.34123, 64-bit
+2025-02-01 17:39:08.394 CET [28036] LOG:  listening on IPv6 address "::1", port 5432
+2025-02-01 17:39:08.394 CET [28036] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-02-01 17:39:08.445 CET [16812] LOG:  database system was shut down at 2025-02-01 17:28:41 CET
+2025-02-01 17:39:08.462 CET [28036] LOG:  database system is ready to accept connections
+2025-02-01 17:44:08.451 CET [11896] LOG:  checkpoint starting: time
+2025-02-01 17:44:08.474 CET [11896] LOG:  checkpoint complete: wrote 3 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.007 s, sync=0.003 s, total=0.024 s; sync files=2, longest=0.002 s, average=0.002 s; distance=0 kB, estimate=0 kB; lsn=0/284A1D8, redo lsn=0/284A180
+2025-02-02 01:41:16.950 CET [28036] LOG:  received fast shutdown request
+2025-02-02 01:41:16.953 CET [8244] ERROR:  canceling statement due to user request
+2025-02-02 01:41:16.956 CET [28036] LOG:  aborting any active transactions
+2025-02-02 01:41:16.958 CET [23868] FATAL:  terminating connection due to administrator command
+2025-02-02 01:41:16.958 CET [26220] FATAL:  terminating connection due to administrator command
+2025-02-02 01:41:16.958 CET [29664] FATAL:  terminating connection due to administrator command
+2025-02-02 01:41:16.958 CET [15284] FATAL:  terminating connection due to administrator command
+2025-02-02 01:41:16.959 CET [15104] FATAL:  terminating connection due to administrator command
+2025-02-02 01:41:16.958 CET [27684] FATAL:  terminating connection due to administrator command
+2025-02-02 01:41:16.960 CET [15004] FATAL:  terminating connection due to administrator command
+2025-02-02 01:41:16.960 CET [22584] FATAL:  terminating connection due to administrator command
+2025-02-02 01:41:16.961 CET [19676] FATAL:  terminating connection due to administrator command
+2025-02-02 01:41:16.961 CET [28332] FATAL:  terminating connection due to administrator command
+2025-02-02 01:41:16.966 CET [28036] LOG:  background worker "logical replication launcher" (PID 8244) exited with exit code 1
+2025-02-02 01:41:16.988 CET [11896] LOG:  shutting down
+2025-02-02 01:41:16.990 CET [11896] LOG:  checkpoint starting: shutdown immediate
+2025-02-02 01:41:17.001 CET [11896] LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.002 s, sync=0.001 s, total=0.013 s; sync files=0, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=0 kB; lsn=0/284A288, redo lsn=0/284A288
+2025-02-02 01:41:17.015 CET [28036] LOG:  database system is shut down
+2025-02-02 11:54:20.806 CET [33476] LOG:  starting PostgreSQL 17.2 on x86_64-windows, compiled by msvc-19.41.34123, 64-bit
+2025-02-02 11:54:20.808 CET [33476] LOG:  listening on IPv6 address "::1", port 5432
+2025-02-02 11:54:20.809 CET [33476] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-02-02 11:54:20.877 CET [32240] LOG:  database system was shut down at 2025-02-02 01:41:16 CET
+2025-02-02 11:54:20.895 CET [33476] LOG:  database system is ready to accept connections
+2025-02-02 11:55:11.035 CET [33476] LOG:  received fast shutdown request
+2025-02-02 11:55:11.038 CET [34436] ERROR:  canceling statement due to user request
+2025-02-02 11:55:11.038 CET [33476] LOG:  aborting any active transactions
+2025-02-02 11:55:11.039 CET [33716] FATAL:  terminating connection due to administrator command
+2025-02-02 11:55:11.039 CET [23888] FATAL:  terminating connection due to administrator command
+2025-02-02 11:55:11.039 CET [31520] FATAL:  terminating connection due to administrator command
+2025-02-02 11:55:11.040 CET [29208] FATAL:  terminating connection due to administrator command
+2025-02-02 11:55:11.040 CET [30240] FATAL:  terminating connection due to administrator command
+2025-02-02 11:55:11.040 CET [5892] FATAL:  terminating connection due to administrator command
+2025-02-02 11:55:11.040 CET [27708] FATAL:  terminating connection due to administrator command
+2025-02-02 11:55:11.040 CET [34076] FATAL:  terminating connection due to administrator command
+2025-02-02 11:55:11.040 CET [9492] FATAL:  terminating connection due to administrator command
+2025-02-02 11:55:11.040 CET [33880] FATAL:  terminating connection due to administrator command
+2025-02-02 11:55:11.048 CET [33476] LOG:  background worker "logical replication launcher" (PID 34436) exited with exit code 1
+2025-02-02 11:55:11.067 CET [31284] LOG:  shutting down
+2025-02-02 11:55:11.068 CET [31284] LOG:  checkpoint starting: shutdown immediate
+2025-02-02 11:55:11.087 CET [31284] LOG:  checkpoint complete: wrote 3 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.007 s, sync=0.002 s, total=0.021 s; sync files=2, longest=0.002 s, average=0.001 s; distance=0 kB, estimate=0 kB; lsn=0/284A338, redo lsn=0/284A338
+2025-02-02 11:55:11.099 CET [33476] LOG:  database system is shut down
+2025-02-02 11:55:14.277 CET [31276] LOG:  starting PostgreSQL 17.2 on x86_64-windows, compiled by msvc-19.41.34123, 64-bit
+2025-02-02 11:55:14.279 CET [31276] LOG:  listening on IPv6 address "::1", port 5432
+2025-02-02 11:55:14.279 CET [31276] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-02-02 11:55:14.346 CET [20148] LOG:  database system was shut down at 2025-02-02 11:55:11 CET
+2025-02-02 11:55:14.362 CET [31276] LOG:  database system is ready to accept connections
+2025-02-02 12:00:14.342 CET [12464] LOG:  checkpoint starting: time
+2025-02-02 12:00:14.348 CET [12464] LOG:  checkpoint complete: wrote 3 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.002 s, sync=0.001 s, total=0.007 s; sync files=2, longest=0.001 s, average=0.001 s; distance=0 kB, estimate=0 kB; lsn=0/284A440, redo lsn=0/284A3E8
+2025-02-02 13:33:29.362 CET [31276] LOG:  received fast shutdown request
+2025-02-02 13:33:29.363 CET [30544] ERROR:  canceling statement due to user request
+2025-02-02 13:33:29.366 CET [31276] LOG:  aborting any active transactions
+2025-02-02 13:33:29.367 CET [27300] FATAL:  terminating connection due to administrator command
+2025-02-02 13:33:29.367 CET [31472] FATAL:  terminating connection due to administrator command
+2025-02-02 13:33:29.367 CET [32884] FATAL:  terminating connection due to administrator command
+2025-02-02 13:33:29.367 CET [34420] FATAL:  terminating connection due to administrator command
+2025-02-02 13:33:29.367 CET [32240] FATAL:  terminating connection due to administrator command
+2025-02-02 13:33:29.367 CET [33828] FATAL:  terminating connection due to administrator command
+2025-02-02 13:33:29.368 CET [28292] FATAL:  terminating connection due to administrator command
+2025-02-02 13:33:29.368 CET [34744] FATAL:  terminating connection due to administrator command
+2025-02-02 13:33:29.368 CET [34504] FATAL:  terminating connection due to administrator command
+2025-02-02 13:33:29.368 CET [31632] FATAL:  terminating connection due to administrator command
+2025-02-02 13:33:29.376 CET [31276] LOG:  background worker "logical replication launcher" (PID 30544) exited with exit code 1
+2025-02-02 13:33:29.401 CET [12464] LOG:  shutting down
+2025-02-02 13:33:29.404 CET [12464] LOG:  checkpoint starting: shutdown immediate
+2025-02-02 13:33:29.417 CET [12464] LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.001 s, sync=0.001 s, total=0.016 s; sync files=0, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=0 kB; lsn=0/284A4F0, redo lsn=0/284A4F0
+2025-02-02 13:33:29.427 CET [31276] LOG:  database system is shut down
+2025-02-02 13:36:18.177 CET [2764] LOG:  starting PostgreSQL 17.2 on x86_64-windows, compiled by msvc-19.41.34123, 64-bit
+2025-02-02 13:36:18.180 CET [2764] LOG:  listening on IPv6 address "::1", port 5432
+2025-02-02 13:36:18.180 CET [2764] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-02-02 13:36:18.224 CET [32636] LOG:  database system was shut down at 2025-02-02 13:33:29 CET
+2025-02-02 13:36:18.241 CET [2764] LOG:  database system is ready to accept connections
+2025-02-02 13:41:18.229 CET [31592] LOG:  checkpoint starting: time
+2025-02-02 13:41:20.019 CET [31592] LOG:  checkpoint complete: wrote 19 buffers (0.1%); 0 WAL file(s) added, 0 removed, 0 recycled; write=1.770 s, sync=0.014 s, total=1.791 s; sync files=17, longest=0.003 s, average=0.001 s; distance=62 kB, estimate=62 kB; lsn=0/285A0B8, redo lsn=0/285A060
+2025-02-02 16:39:21.783 CET [23952] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-02 16:41:18.308 CET [31592] LOG:  checkpoint starting: time
+2025-02-02 16:41:18.991 CET [31592] LOG:  checkpoint complete: wrote 7 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.664 s, sync=0.006 s, total=0.684 s; sync files=7, longest=0.004 s, average=0.001 s; distance=4 kB, estimate=57 kB; lsn=0/285B1D8, redo lsn=0/285B180
+2025-02-02 16:46:19.007 CET [31592] LOG:  checkpoint starting: time
+2025-02-02 16:46:19.149 CET [31592] LOG:  checkpoint complete: wrote 2 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.111 s, sync=0.002 s, total=0.143 s; sync files=2, longest=0.002 s, average=0.001 s; distance=3 kB, estimate=51 kB; lsn=0/285BEA0, redo lsn=0/285BE10
+2025-02-02 16:59:03.762 CET [32924] ERROR:  syntax error at or near "WHERE" at character 1
+2025-02-02 16:59:03.762 CET [32924] STATEMENT:  WHERE table_name = 'products'
+	WHERE table_name = 'products';
+2025-02-02 17:00:52.450 CET [31936] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-02 17:00:58.973 CET [32596] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-02 17:01:19.177 CET [31592] LOG:  checkpoint starting: time
+2025-02-02 17:01:19.530 CET [31592] LOG:  checkpoint complete: wrote 4 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.328 s, sync=0.005 s, total=0.354 s; sync files=4, longest=0.004 s, average=0.002 s; distance=6 kB, estimate=47 kB; lsn=0/285D7A8, redo lsn=0/285D750
+2025-02-02 17:01:22.406 CET [2764] LOG:  received fast shutdown request
+2025-02-02 17:01:22.409 CET [16708] ERROR:  canceling statement due to user request
+2025-02-02 17:01:22.413 CET [2764] LOG:  aborting any active transactions
+2025-02-02 17:01:22.413 CET [32664] FATAL:  terminating connection due to administrator command
+2025-02-02 17:01:22.414 CET [30252] FATAL:  terminating connection due to administrator command
+2025-02-02 17:01:22.413 CET [9800] FATAL:  terminating connection due to administrator command
+2025-02-02 17:01:22.415 CET [3640] FATAL:  terminating connection due to administrator command
+2025-02-02 17:01:22.415 CET [30696] FATAL:  terminating connection due to administrator command
+2025-02-02 17:01:22.415 CET [30580] FATAL:  terminating connection due to administrator command
+2025-02-02 17:01:22.416 CET [2576] FATAL:  terminating connection due to administrator command
+2025-02-02 17:01:22.416 CET [29628] FATAL:  terminating connection due to administrator command
+2025-02-02 17:01:22.416 CET [25968] FATAL:  terminating connection due to administrator command
+2025-02-02 17:01:22.416 CET [27732] FATAL:  terminating connection due to administrator command
+2025-02-02 17:01:22.437 CET [2764] LOG:  background worker "logical replication launcher" (PID 16708) exited with exit code 1
+2025-02-02 17:01:22.454 CET [31592] LOG:  shutting down
+2025-02-02 17:01:22.460 CET [31592] LOG:  checkpoint starting: shutdown immediate
+2025-02-02 17:01:22.477 CET [31592] LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.001 s, sync=0.001 s, total=0.024 s; sync files=0, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=42 kB; lsn=0/285D820, redo lsn=0/285D820
+2025-02-02 17:01:22.489 CET [2764] LOG:  database system is shut down
+2025-02-02 17:01:34.565 CET [32424] LOG:  starting PostgreSQL 17.2 on x86_64-windows, compiled by msvc-19.41.34123, 64-bit
+2025-02-02 17:01:34.569 CET [32424] LOG:  listening on IPv6 address "::1", port 5432
+2025-02-02 17:01:34.569 CET [32424] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-02-02 17:01:34.619 CET [32152] LOG:  database system was shut down at 2025-02-02 17:01:22 CET
+2025-02-02 17:01:34.637 CET [32424] LOG:  database system is ready to accept connections
+2025-02-02 17:01:48.358 CET [396] LOG:  checkpoint starting: immediate force wait
+2025-02-02 17:01:48.364 CET [396] LOG:  checkpoint complete: wrote 4 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.002 s, sync=0.002 s, total=0.007 s; sync files=3, longest=0.001 s, average=0.001 s; distance=1 kB, estimate=1 kB; lsn=0/285DDC8, redo lsn=0/285DD70
+2025-02-02 17:02:00.302 CET [25936] LOG:  PID 32096 in cancel request did not match any process
+2025-02-02 17:04:00.113 CET [32424] LOG:  received fast shutdown request
+2025-02-02 17:04:00.114 CET [33508] ERROR:  canceling statement due to user request
+2025-02-02 17:04:00.114 CET [32424] LOG:  aborting any active transactions
+2025-02-02 17:04:00.117 CET [32424] LOG:  background worker "logical replication launcher" (PID 33508) exited with exit code 1
+2025-02-02 17:04:00.119 CET [396] LOG:  shutting down
+2025-02-02 17:04:00.120 CET [396] LOG:  checkpoint starting: shutdown immediate
+2025-02-02 17:04:00.252 CET [396] LOG:  checkpoint complete: wrote 987 buffers (6.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.040 s, sync=0.089 s, total=0.134 s; sync files=307, longest=0.001 s, average=0.001 s; distance=4588 kB, estimate=4588 kB; lsn=0/2CD8F10, redo lsn=0/2CD8F10
+2025-02-02 17:04:00.295 CET [32424] LOG:  database system is shut down
+2025-02-02 17:04:02.597 CET [12860] LOG:  starting PostgreSQL 17.2 on x86_64-windows, compiled by msvc-19.41.34123, 64-bit
+2025-02-02 17:04:02.600 CET [12860] LOG:  listening on IPv6 address "::1", port 5432
+2025-02-02 17:04:02.600 CET [12860] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-02-02 17:04:02.655 CET [28572] LOG:  database system was shut down at 2025-02-02 17:04:00 CET
+2025-02-02 17:04:02.673 CET [12860] LOG:  database system is ready to accept connections
+2025-02-02 17:04:46.148 CET [12860] LOG:  received fast shutdown request
+2025-02-02 17:04:46.150 CET [25296] ERROR:  canceling statement due to user request
+2025-02-02 17:04:46.151 CET [12860] LOG:  aborting any active transactions
+2025-02-02 17:04:46.152 CET [27696] FATAL:  terminating connection due to administrator command
+2025-02-02 17:04:46.152 CET [34696] FATAL:  terminating connection due to administrator command
+2025-02-02 17:04:46.152 CET [34280] FATAL:  terminating connection due to administrator command
+2025-02-02 17:04:46.152 CET [30508] FATAL:  terminating connection due to administrator command
+2025-02-02 17:04:46.152 CET [26708] FATAL:  terminating connection due to administrator command
+2025-02-02 17:04:46.152 CET [30880] FATAL:  terminating connection due to administrator command
+2025-02-02 17:04:46.152 CET [25004] FATAL:  terminating connection due to administrator command
+2025-02-02 17:04:46.153 CET [21496] FATAL:  terminating connection due to administrator command
+2025-02-02 17:04:46.153 CET [30176] FATAL:  terminating connection due to administrator command
+2025-02-02 17:04:46.153 CET [10168] FATAL:  terminating connection due to administrator command
+2025-02-02 17:04:46.155 CET [12860] LOG:  background worker "logical replication launcher" (PID 25296) exited with exit code 1
+2025-02-02 17:04:46.160 CET [33032] LOG:  shutting down
+2025-02-02 17:04:46.161 CET [33032] LOG:  checkpoint starting: shutdown immediate
+2025-02-02 17:04:46.174 CET [33032] LOG:  checkpoint complete: wrote 7 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.005 s, sync=0.004 s, total=0.014 s; sync files=6, longest=0.001 s, average=0.001 s; distance=0 kB, estimate=0 kB; lsn=0/2CD8FC0, redo lsn=0/2CD8FC0
+2025-02-02 17:04:46.182 CET [12860] LOG:  database system is shut down
+2025-02-02 17:04:58.565 CET [26760] LOG:  starting PostgreSQL 17.2 on x86_64-windows, compiled by msvc-19.41.34123, 64-bit
+2025-02-02 17:04:58.569 CET [26760] LOG:  listening on IPv6 address "::1", port 5432
+2025-02-02 17:04:58.570 CET [26760] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-02-02 17:04:58.626 CET [29984] LOG:  database system was shut down at 2025-02-02 17:04:46 CET
+2025-02-02 17:04:58.643 CET [26760] LOG:  database system is ready to accept connections
+2025-02-02 17:05:03.076 CET [30480] LOG:  checkpoint starting: immediate force wait
+2025-02-02 17:05:03.082 CET [30480] LOG:  checkpoint complete: wrote 4 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.002 s, sync=0.002 s, total=0.007 s; sync files=3, longest=0.001 s, average=0.001 s; distance=1 kB, estimate=1 kB; lsn=0/2CD95F0, redo lsn=0/2CD9598
+2025-02-02 17:05:03.269 CET [15940] LOG:  PID 28620 in cancel request did not match any process
+2025-02-02 17:05:11.147 CET [30984] LOG:  PID 29700 in cancel request did not match any process
+2025-02-02 17:05:18.148 CET [26760] LOG:  received fast shutdown request
+2025-02-02 17:05:18.150 CET [24372] ERROR:  canceling statement due to user request
+2025-02-02 17:05:18.152 CET [26760] LOG:  aborting any active transactions
+2025-02-02 17:05:18.162 CET [26760] LOG:  background worker "logical replication launcher" (PID 24372) exited with exit code 1
+2025-02-02 17:05:18.168 CET [30480] LOG:  shutting down
+2025-02-02 17:05:18.170 CET [30480] LOG:  checkpoint starting: shutdown immediate
+2025-02-02 17:05:18.314 CET [30480] LOG:  checkpoint complete: wrote 974 buffers (5.9%); 0 WAL file(s) added, 0 removed, 1 recycled; write=0.042 s, sync=0.092 s, total=0.146 s; sync files=300, longest=0.002 s, average=0.001 s; distance=4553 kB, estimate=4553 kB; lsn=0/314BBB0, redo lsn=0/314BBB0
+2025-02-02 17:05:18.391 CET [26760] LOG:  database system is shut down
+2025-02-02 17:05:19.989 CET [30508] LOG:  starting PostgreSQL 17.2 on x86_64-windows, compiled by msvc-19.41.34123, 64-bit
+2025-02-02 17:05:19.992 CET [30508] LOG:  listening on IPv6 address "::1", port 5432
+2025-02-02 17:05:19.992 CET [30508] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-02-02 17:05:20.038 CET [33200] LOG:  database system was shut down at 2025-02-02 17:05:18 CET
+2025-02-02 17:05:20.055 CET [30508] LOG:  database system is ready to accept connections
+2025-02-02 17:05:30.844 CET [30544] ERROR:  relation "products" does not exist at character 178
+2025-02-02 17:05:30.844 CET [30544] STATEMENT:  SELECT p0."id", p0."title", p0."description", p0."category", p0."price", p0."stock", p0."photo", p0."sold_count", p0."transaction_dates", p0."inserted_at", p0."updated_at" FROM "products" AS p0
+2025-02-02 17:05:47.181 CET [30508] LOG:  received fast shutdown request
+2025-02-02 17:05:47.182 CET [20384] ERROR:  canceling statement due to user request
+2025-02-02 17:05:47.185 CET [30508] LOG:  aborting any active transactions
+2025-02-02 17:05:47.185 CET [29096] FATAL:  terminating connection due to administrator command
+2025-02-02 17:05:47.185 CET [30544] FATAL:  terminating connection due to administrator command
+2025-02-02 17:05:47.185 CET [29996] FATAL:  terminating connection due to administrator command
+2025-02-02 17:05:47.185 CET [5868] FATAL:  terminating connection due to administrator command
+2025-02-02 17:05:47.185 CET [5080] FATAL:  terminating connection due to administrator command
+2025-02-02 17:05:47.185 CET [9608] FATAL:  terminating connection due to administrator command
+2025-02-02 17:05:47.185 CET [25064] FATAL:  terminating connection due to administrator command
+2025-02-02 17:05:47.185 CET [20632] FATAL:  terminating connection due to administrator command
+2025-02-02 17:05:47.185 CET [4688] FATAL:  terminating connection due to administrator command
+2025-02-02 17:05:47.185 CET [21944] FATAL:  terminating connection due to administrator command
+2025-02-02 17:05:47.188 CET [30508] LOG:  background worker "logical replication launcher" (PID 20384) exited with exit code 1
+2025-02-02 17:05:47.211 CET [32032] LOG:  shutting down
+2025-02-02 17:05:47.213 CET [32032] LOG:  checkpoint starting: shutdown immediate
+2025-02-02 17:05:47.255 CET [32032] LOG:  checkpoint complete: wrote 38 buffers (0.2%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.023 s, sync=0.012 s, total=0.045 s; sync files=34, longest=0.001 s, average=0.001 s; distance=138 kB, estimate=138 kB; lsn=0/316E4F8, redo lsn=0/316E4F8
+2025-02-02 17:05:47.273 CET [30508] LOG:  database system is shut down
+2025-02-02 17:06:08.188 CET [25844] LOG:  starting PostgreSQL 17.2 on x86_64-windows, compiled by msvc-19.41.34123, 64-bit
+2025-02-02 17:06:08.191 CET [25844] LOG:  listening on IPv6 address "::1", port 5432
+2025-02-02 17:06:08.191 CET [25844] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-02-02 17:06:08.231 CET [27456] LOG:  database system was shut down at 2025-02-02 17:05:47 CET
+2025-02-02 17:06:08.247 CET [25844] LOG:  database system is ready to accept connections
+2025-02-02 17:06:49.229 CET [25844] LOG:  received fast shutdown request
+2025-02-02 17:06:49.231 CET [5448] ERROR:  canceling statement due to user request
+2025-02-02 17:06:49.232 CET [25844] LOG:  aborting any active transactions
+2025-02-02 17:06:49.233 CET [23908] FATAL:  terminating connection due to administrator command
+2025-02-02 17:06:49.233 CET [33480] FATAL:  terminating connection due to administrator command
+2025-02-02 17:06:49.234 CET [19464] FATAL:  terminating connection due to administrator command
+2025-02-02 17:06:49.234 CET [22476] FATAL:  terminating connection due to administrator command
+2025-02-02 17:06:49.234 CET [9492] FATAL:  terminating connection due to administrator command
+2025-02-02 17:06:49.234 CET [8068] FATAL:  terminating connection due to administrator command
+2025-02-02 17:06:49.234 CET [31256] FATAL:  terminating connection due to administrator command
+2025-02-02 17:06:49.235 CET [33040] FATAL:  terminating connection due to administrator command
+2025-02-02 17:06:49.235 CET [33644] FATAL:  terminating connection due to administrator command
+2025-02-02 17:06:49.235 CET [34080] FATAL:  terminating connection due to administrator command
+2025-02-02 17:06:49.244 CET [25844] LOG:  background worker "logical replication launcher" (PID 5448) exited with exit code 1
+2025-02-02 17:06:49.267 CET [32096] LOG:  shutting down
+2025-02-02 17:06:49.269 CET [32096] LOG:  checkpoint starting: shutdown immediate
+2025-02-02 17:06:49.308 CET [32096] LOG:  checkpoint complete: wrote 50 buffers (0.3%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.019 s, sync=0.014 s, total=0.041 s; sync files=41, longest=0.001 s, average=0.001 s; distance=160 kB, estimate=160 kB; lsn=0/3196528, redo lsn=0/3196528
+2025-02-02 17:06:49.324 CET [25844] LOG:  database system is shut down
+2025-02-02 17:06:53.911 CET [16744] LOG:  starting PostgreSQL 17.2 on x86_64-windows, compiled by msvc-19.41.34123, 64-bit
+2025-02-02 17:06:53.915 CET [16744] LOG:  listening on IPv6 address "::1", port 5432
+2025-02-02 17:06:53.915 CET [16744] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-02-02 17:06:54.086 CET [30240] LOG:  database system was shut down at 2025-02-02 17:06:49 CET
+2025-02-02 17:06:54.110 CET [16744] LOG:  database system is ready to accept connections
+2025-02-02 17:06:57.417 CET [20148] LOG:  checkpoint starting: immediate force wait
+2025-02-02 17:06:57.424 CET [20148] LOG:  checkpoint complete: wrote 4 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.002 s, sync=0.002 s, total=0.008 s; sync files=3, longest=0.001 s, average=0.001 s; distance=1 kB, estimate=1 kB; lsn=0/3196BE8, redo lsn=0/3196B90
+2025-02-02 17:06:57.483 CET [27788] LOG:  PID 5028 in cancel request did not match any process
+2025-02-02 17:07:03.427 CET [34772] LOG:  PID 28364 in cancel request did not match any process
+2025-02-02 17:07:44.620 CET [16744] LOG:  received fast shutdown request
+2025-02-02 17:07:44.621 CET [30840] ERROR:  canceling statement due to user request
+2025-02-02 17:07:44.624 CET [16744] LOG:  aborting any active transactions
+2025-02-02 17:07:44.624 CET [34592] FATAL:  terminating connection due to administrator command
+2025-02-02 17:07:44.625 CET [30192] FATAL:  terminating connection due to administrator command
+2025-02-02 17:07:44.625 CET [26280] FATAL:  terminating connection due to administrator command
+2025-02-02 17:07:44.625 CET [27184] FATAL:  terminating connection due to administrator command
+2025-02-02 17:07:44.625 CET [9476] FATAL:  terminating connection due to administrator command
+2025-02-02 17:07:44.625 CET [20912] FATAL:  terminating connection due to administrator command
+2025-02-02 17:07:44.625 CET [32816] FATAL:  terminating connection due to administrator command
+2025-02-02 17:07:44.625 CET [34264] FATAL:  terminating connection due to administrator command
+2025-02-02 17:07:44.625 CET [22004] FATAL:  terminating connection due to administrator command
+2025-02-02 17:07:44.625 CET [31568] FATAL:  terminating connection due to administrator command
+2025-02-02 17:07:44.632 CET [16744] LOG:  background worker "logical replication launcher" (PID 30840) exited with exit code 1
+2025-02-02 17:07:44.655 CET [20148] LOG:  shutting down
+2025-02-02 17:07:44.657 CET [20148] LOG:  checkpoint starting: shutdown immediate
+2025-02-02 17:07:44.820 CET [20148] LOG:  checkpoint complete: wrote 984 buffers (6.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.040 s, sync=0.118 s, total=0.165 s; sync files=307, longest=0.006 s, average=0.001 s; distance=4585 kB, estimate=4585 kB; lsn=0/3611140, redo lsn=0/3611140
+2025-02-02 17:07:44.866 CET [16744] LOG:  database system is shut down
+2025-02-02 17:07:49.868 CET [33260] LOG:  starting PostgreSQL 17.2 on x86_64-windows, compiled by msvc-19.41.34123, 64-bit
+2025-02-02 17:07:49.872 CET [33260] LOG:  listening on IPv6 address "::1", port 5432
+2025-02-02 17:07:49.872 CET [33260] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-02-02 17:07:49.931 CET [30792] LOG:  database system was shut down at 2025-02-02 17:07:44 CET
+2025-02-02 17:07:49.948 CET [33260] LOG:  database system is ready to accept connections
+2025-02-02 17:08:15.172 CET [32988] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-02 17:10:29.990 CET [33260] LOG:  received fast shutdown request
+2025-02-02 17:10:29.991 CET [18864] ERROR:  canceling statement due to user request
+2025-02-02 17:10:29.991 CET [33320] ERROR:  canceling statement due to user request
+2025-02-02 17:10:29.995 CET [33260] LOG:  aborting any active transactions
+2025-02-02 17:10:29.995 CET [34604] FATAL:  terminating connection due to administrator command
+2025-02-02 17:10:29.995 CET [29952] FATAL:  terminating connection due to administrator command
+2025-02-02 17:10:29.995 CET [8596] FATAL:  terminating connection due to administrator command
+2025-02-02 17:10:29.995 CET [28984] FATAL:  terminating connection due to administrator command
+2025-02-02 17:10:29.995 CET [27216] FATAL:  terminating connection due to administrator command
+2025-02-02 17:10:29.995 CET [19904] FATAL:  terminating connection due to administrator command
+2025-02-02 17:10:29.995 CET [31048] FATAL:  terminating connection due to administrator command
+2025-02-02 17:10:29.995 CET [34100] FATAL:  terminating connection due to administrator command
+2025-02-02 17:10:29.995 CET [22284] FATAL:  terminating connection due to administrator command
+2025-02-02 17:10:29.995 CET [22748] FATAL:  terminating connection due to administrator command
+2025-02-02 17:10:30.001 CET [33260] LOG:  background worker "logical replication launcher" (PID 33320) exited with exit code 1
+2025-02-02 17:10:30.023 CET [21780] LOG:  shutting down
+2025-02-02 17:10:30.025 CET [21780] LOG:  checkpoint starting: shutdown immediate
+2025-02-02 17:10:30.035 CET [21780] LOG:  checkpoint complete: wrote 10 buffers (0.1%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.003 s, sync=0.003 s, total=0.012 s; sync files=8, longest=0.001 s, average=0.001 s; distance=3 kB, estimate=3 kB; lsn=0/3611EF0, redo lsn=0/3611EF0
+2025-02-02 17:10:30.043 CET [33260] LOG:  database system is shut down
+2025-02-02 17:10:33.058 CET [30468] LOG:  starting PostgreSQL 17.2 on x86_64-windows, compiled by msvc-19.41.34123, 64-bit
+2025-02-02 17:10:33.061 CET [30468] LOG:  listening on IPv6 address "::1", port 5432
+2025-02-02 17:10:33.061 CET [30468] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-02-02 17:10:33.133 CET [33852] LOG:  database system was shut down at 2025-02-02 17:10:30 CET
+2025-02-02 17:10:33.149 CET [30468] LOG:  database system is ready to accept connections
+2025-02-02 17:10:36.488 CET [15772] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-02 17:10:36.492 CET [20992] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-02 17:10:36.495 CET [30044] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-02 17:10:36.499 CET [29432] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-02 17:10:36.504 CET [8132] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-02 17:10:36.506 CET [14776] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-02 17:10:36.510 CET [30492] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-02 17:10:36.513 CET [24360] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-02 17:10:36.517 CET [21480] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-02 17:10:36.632 CET [34788] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-02 17:11:10.088 CET [32364] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-02 17:11:10.095 CET [9004] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-02 17:11:10.105 CET [33100] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-02 17:11:10.111 CET [9644] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-02 17:11:10.114 CET [31084] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-02 17:11:10.120 CET [8584] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-02 17:11:10.124 CET [2764] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-02 17:11:10.127 CET [21068] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-02 17:11:10.129 CET [25196] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-02 17:11:10.130 CET [3640] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-02 17:12:27.847 CET [22024] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-02 17:12:27.850 CET [30184] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-02 17:12:27.857 CET [34352] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-02 17:12:27.867 CET [33220] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-02 17:12:27.876 CET [28072] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-02 17:12:27.878 CET [19908] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-02 17:12:27.885 CET [20632] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-02 17:12:27.886 CET [34800] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-02 17:12:27.888 CET [25356] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-02 17:12:27.948 CET [24376] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-02 17:15:10.054 CET [24280] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-02 17:15:10.059 CET [22340] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-02 17:15:10.060 CET [25196] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-02 17:15:10.063 CET [30360] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-02 17:15:10.115 CET [33268] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-02 17:15:33.128 CET [17396] LOG:  checkpoint starting: time
+2025-02-02 17:15:33.143 CET [17396] LOG:  checkpoint complete: wrote 3 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.002 s, sync=0.002 s, total=0.016 s; sync files=2, longest=0.001 s, average=0.001 s; distance=0 kB, estimate=0 kB; lsn=0/3611FF8, redo lsn=0/3611FA0
+2025-02-02 17:16:00.909 CET [20500] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-02 17:16:49.217 CET [16480] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-02 17:16:49.249 CET [33652] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-02 17:40:52.920 CET [26412] ERROR:  syntax error at or near "SELECT" at character 24
+2025-02-02 17:40:52.920 CET [26412] STATEMENT:  SELECT * FROM products
+	SELECT * FROM products;
+2025-02-02 17:45:33.209 CET [17396] LOG:  checkpoint starting: time
+2025-02-02 17:45:33.450 CET [17396] LOG:  checkpoint complete: wrote 2 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.223 s, sync=0.002 s, total=0.241 s; sync files=2, longest=0.001 s, average=0.001 s; distance=3 kB, estimate=3 kB; lsn=0/3612ED8, redo lsn=0/3612E80
+2025-02-02 17:59:33.159 CET [26412] ERROR:  syntax error at or near "SELECT" at character 26
+2025-02-02 17:59:33.159 CET [26412] STATEMENT:  SELECT COUNT(*) products
+	SELECT COUNT(*) products;
+2025-02-02 18:03:16.730 CET [33852] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-02 18:05:03.607 CET [6396] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-02-02 18:05:33.467 CET [17396] LOG:  checkpoint starting: time
+2025-02-02 18:05:33.817 CET [17396] LOG:  checkpoint complete: wrote 4 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.333 s, sync=0.005 s, total=0.351 s; sync files=4, longest=0.004 s, average=0.002 s; distance=8 kB, estimate=8 kB; lsn=0/36151C0, redo lsn=0/3615168
+2025-02-02 23:13:23.694 CET [28860] LOG:  starting PostgreSQL 17.2 on x86_64-windows, compiled by msvc-19.41.34123, 64-bit
+2025-02-02 23:13:23.697 CET [28860] LOG:  listening on IPv6 address "::1", port 5432
+2025-02-02 23:13:23.697 CET [28860] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-02-02 23:13:23.744 CET [22772] LOG:  database system was interrupted; last known up at 2025-02-02 18:05:33 CET
+2025-02-02 23:13:24.332 CET [22772] LOG:  database system was not properly shut down; automatic recovery in progress
+2025-02-02 23:13:24.335 CET [22772] LOG:  redo starts at 0/3615168
+2025-02-02 23:13:24.336 CET [22772] LOG:  invalid record length at 0/3615270: expected at least 24, got 0
+2025-02-02 23:13:24.336 CET [22772] LOG:  redo done at 0/3615238 system usage: CPU: user: 0.00 s, system: 0.00 s, elapsed: 0.00 s
+2025-02-02 23:13:24.339 CET [23140] LOG:  checkpoint starting: end-of-recovery immediate wait
+2025-02-02 23:13:24.345 CET [23140] LOG:  checkpoint complete: wrote 3 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.002 s, sync=0.001 s, total=0.007 s; sync files=2, longest=0.001 s, average=0.001 s; distance=0 kB, estimate=0 kB; lsn=0/3615270, redo lsn=0/3615270
+2025-02-02 23:13:24.369 CET [28860] LOG:  database system is ready to accept connections
+2025-02-03 00:08:24.466 CET [23140] LOG:  checkpoint starting: time
+2025-02-03 00:08:24.598 CET [23140] LOG:  checkpoint complete: wrote 2 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.113 s, sync=0.003 s, total=0.132 s; sync files=2, longest=0.003 s, average=0.002 s; distance=5 kB, estimate=5 kB; lsn=0/3616A60, redo lsn=0/3616A08
+2025-02-03 00:13:24.604 CET [23140] LOG:  checkpoint starting: time
+2025-02-03 00:13:24.736 CET [23140] LOG:  checkpoint complete: wrote 2 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.116 s, sync=0.003 s, total=0.133 s; sync files=2, longest=0.003 s, average=0.002 s; distance=6 kB, estimate=6 kB; lsn=0/3618300, redo lsn=0/36182A8
+2025-02-03 00:28:24.751 CET [23140] LOG:  checkpoint starting: time
+2025-02-03 00:28:24.884 CET [23140] LOG:  checkpoint complete: wrote 2 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.114 s, sync=0.004 s, total=0.133 s; sync files=2, longest=0.003 s, average=0.002 s; distance=7 kB, estimate=7 kB; lsn=0/3619F88, redo lsn=0/3619F30
+2025-02-03 01:48:25.008 CET [23140] LOG:  checkpoint starting: time
+2025-02-03 01:48:25.125 CET [23140] LOG:  checkpoint complete: wrote 2 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.102 s, sync=0.003 s, total=0.117 s; sync files=2, longest=0.003 s, average=0.002 s; distance=7 kB, estimate=7 kB; lsn=0/361BC40, redo lsn=0/361BBE8
+2025-02-03 01:58:25.150 CET [23140] LOG:  checkpoint starting: time
+2025-02-03 01:58:25.282 CET [23140] LOG:  checkpoint complete: wrote 2 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.114 s, sync=0.003 s, total=0.132 s; sync files=2, longest=0.003 s, average=0.002 s; distance=7 kB, estimate=7 kB; lsn=0/361DBE0, redo lsn=0/361DB88
+2025-02-03 02:03:25.286 CET [23140] LOG:  checkpoint starting: time
+2025-02-03 02:03:25.414 CET [23140] LOG:  checkpoint complete: wrote 2 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.115 s, sync=0.002 s, total=0.129 s; sync files=2, longest=0.002 s, average=0.001 s; distance=6 kB, estimate=7 kB; lsn=0/361F7B8, redo lsn=0/361F760
+2025-02-03 02:08:25.425 CET [23140] LOG:  checkpoint starting: time
+2025-02-03 02:08:25.556 CET [23140] LOG:  checkpoint complete: wrote 2 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.114 s, sync=0.003 s, total=0.131 s; sync files=2, longest=0.002 s, average=0.002 s; distance=6 kB, estimate=7 kB; lsn=0/3621398, redo lsn=0/3621340
+2025-02-03 04:00:43.127 CET [28860] LOG:  received fast shutdown request
+2025-02-03 04:00:43.134 CET [24668] ERROR:  canceling statement due to user request
+2025-02-03 04:00:43.139 CET [28860] LOG:  aborting any active transactions
+2025-02-03 04:00:43.139 CET [21888] FATAL:  terminating connection due to administrator command
+2025-02-03 04:00:43.139 CET [25004] FATAL:  terminating connection due to administrator command
+2025-02-03 04:00:43.140 CET [4204] FATAL:  terminating connection due to administrator command
+2025-02-03 04:00:43.140 CET [32332] FATAL:  terminating connection due to administrator command
+2025-02-03 04:00:43.141 CET [34240] FATAL:  terminating connection due to administrator command
+2025-02-03 04:00:43.141 CET [10192] FATAL:  terminating connection due to administrator command
+2025-02-03 04:00:43.141 CET [16320] FATAL:  terminating connection due to administrator command
+2025-02-03 04:00:43.140 CET [9920] FATAL:  terminating connection due to administrator command
+2025-02-03 04:00:43.142 CET [29536] FATAL:  terminating connection due to administrator command
+2025-02-03 04:00:43.142 CET [34640] FATAL:  terminating connection due to administrator command
+2025-02-03 04:00:43.156 CET [28860] LOG:  background worker "logical replication launcher" (PID 24668) exited with exit code 1
+2025-02-03 04:00:43.179 CET [23140] LOG:  shutting down
+2025-02-03 04:00:43.181 CET [23140] LOG:  checkpoint starting: shutdown immediate
+2025-02-03 04:00:43.191 CET [23140] LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.001 s, sync=0.001 s, total=0.012 s; sync files=0, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=6 kB; lsn=0/3621448, redo lsn=0/3621448
+2025-02-03 04:00:43.202 CET [28860] LOG:  database system is shut down
+2025-02-03 04:00:47.064 CET [31228] LOG:  starting PostgreSQL 17.2 on x86_64-windows, compiled by msvc-19.41.34123, 64-bit
+2025-02-03 04:00:47.067 CET [31228] LOG:  listening on IPv6 address "::1", port 5432
+2025-02-03 04:00:47.067 CET [31228] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-02-03 04:00:47.115 CET [32700] LOG:  database system was shut down at 2025-02-03 04:00:43 CET
+2025-02-03 04:00:47.135 CET [31228] LOG:  database system is ready to accept connections
+2025-02-03 04:01:05.204 CET [27008] ERROR:  column p0.tags does not exist at character 139
+2025-02-03 04:01:05.204 CET [27008] STATEMENT:  SELECT p0."id", p0."title", p0."description", p0."category", p0."price", p0."stock", p0."photo", p0."sold_count", p0."transaction_dates", p0."tags", p0."inserted_at", p0."updated_at" FROM "products" AS p0
+2025-02-03 04:01:30.215 CET [31228] LOG:  received fast shutdown request
+2025-02-03 04:01:30.215 CET [8904] ERROR:  canceling statement due to user request
+2025-02-03 04:01:30.216 CET [31228] LOG:  aborting any active transactions
+2025-02-03 04:01:30.216 CET [27008] FATAL:  terminating connection due to administrator command
+2025-02-03 04:01:30.217 CET [33064] FATAL:  terminating connection due to administrator command
+2025-02-03 04:01:30.217 CET [8000] FATAL:  terminating connection due to administrator command
+2025-02-03 04:01:30.217 CET [16192] FATAL:  terminating connection due to administrator command
+2025-02-03 04:01:30.217 CET [31168] FATAL:  terminating connection due to administrator command
+2025-02-03 04:01:30.217 CET [11644] FATAL:  terminating connection due to administrator command
+2025-02-03 04:01:30.217 CET [25752] FATAL:  terminating connection due to administrator command
+2025-02-03 04:01:30.217 CET [34488] FATAL:  terminating connection due to administrator command
+2025-02-03 04:01:30.217 CET [35376] FATAL:  terminating connection due to administrator command
+2025-02-03 04:01:30.217 CET [32128] FATAL:  terminating connection due to administrator command
+2025-02-03 04:01:30.221 CET [31228] LOG:  background worker "logical replication launcher" (PID 8904) exited with exit code 1
+2025-02-03 04:01:30.247 CET [27384] LOG:  shutting down
+2025-02-03 04:01:30.249 CET [27384] LOG:  checkpoint starting: shutdown immediate
+2025-02-03 04:01:30.257 CET [27384] LOG:  checkpoint complete: wrote 3 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.002 s, sync=0.002 s, total=0.011 s; sync files=2, longest=0.001 s, average=0.001 s; distance=0 kB, estimate=0 kB; lsn=0/36214F8, redo lsn=0/36214F8
+2025-02-03 04:01:30.265 CET [31228] LOG:  database system is shut down
+2025-02-03 04:01:54.758 CET [20512] LOG:  starting PostgreSQL 17.2 on x86_64-windows, compiled by msvc-19.41.34123, 64-bit
+2025-02-03 04:01:54.761 CET [20512] LOG:  listening on IPv6 address "::1", port 5432
+2025-02-03 04:01:54.761 CET [20512] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-02-03 04:01:54.820 CET [34784] LOG:  database system was shut down at 2025-02-03 04:01:30 CET
+2025-02-03 04:01:54.836 CET [20512] LOG:  database system is ready to accept connections
+2025-02-03 04:01:58.643 CET [29412] LOG:  checkpoint starting: immediate force wait
+2025-02-03 04:01:58.649 CET [29412] LOG:  checkpoint complete: wrote 4 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.002 s, sync=0.002 s, total=0.006 s; sync files=3, longest=0.001 s, average=0.001 s; distance=1 kB, estimate=1 kB; lsn=0/3621C40, redo lsn=0/3621BE8
+2025-02-03 04:01:58.837 CET [35156] LOG:  PID 35760 in cancel request did not match any process
+2025-02-03 04:02:11.932 CET [20512] LOG:  received fast shutdown request
+2025-02-03 04:02:11.934 CET [23992] ERROR:  canceling statement due to user request
+2025-02-03 04:02:11.936 CET [20512] LOG:  aborting any active transactions
+2025-02-03 04:02:11.946 CET [20512] LOG:  background worker "logical replication launcher" (PID 23992) exited with exit code 1
+2025-02-03 04:02:11.948 CET [29412] LOG:  shutting down
+2025-02-03 04:02:11.950 CET [29412] LOG:  checkpoint starting: shutdown immediate
+2025-02-03 04:02:11.963 CET [29412] LOG:  checkpoint complete: wrote 1 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.002 s, sync=0.001 s, total=0.015 s; sync files=1, longest=0.001 s, average=0.001 s; distance=0 kB, estimate=1 kB; lsn=0/3621D80, redo lsn=0/3621D80
+2025-02-03 04:02:11.974 CET [20512] LOG:  database system is shut down
+2025-02-03 04:02:13.918 CET [1828] LOG:  starting PostgreSQL 17.2 on x86_64-windows, compiled by msvc-19.41.34123, 64-bit
+2025-02-03 04:02:13.920 CET [1828] LOG:  listening on IPv6 address "::1", port 5432
+2025-02-03 04:02:13.921 CET [1828] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-02-03 04:02:13.973 CET [32020] LOG:  database system was shut down at 2025-02-03 04:02:11 CET
+2025-02-03 04:02:13.995 CET [1828] LOG:  database system is ready to accept connections
+2025-02-03 04:02:16.848 CET [12320] ERROR:  database "clothing_dashboard1_dev" does not exist
+2025-02-03 04:02:16.848 CET [12320] STATEMENT:  DROP DATABASE "clothing_dashboard1_dev"
+2025-02-03 04:02:16.882 CET [33940] LOG:  PID 12320 in cancel request did not match any process
+2025-02-03 04:02:26.876 CET [34132] LOG:  PID 32384 in cancel request did not match any process
+2025-02-03 04:07:14.100 CET [35644] LOG:  checkpoint starting: time
+2025-02-03 04:09:02.107 CET [35644] LOG:  checkpoint complete: wrote 989 buffers (6.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=107.875 s, sync=0.124 s, total=108.008 s; sync files=308, longest=0.004 s, average=0.001 s; distance=4590 kB, estimate=4590 kB; lsn=0/3A9D868, redo lsn=0/3A9D7D8
+2025-02-03 04:34:03.025 CET [1828] LOG:  received fast shutdown request
+2025-02-03 04:34:03.026 CET [16444] ERROR:  canceling statement due to user request
+2025-02-03 04:34:03.028 CET [1828] LOG:  aborting any active transactions
+2025-02-03 04:34:03.028 CET [16492] FATAL:  terminating connection due to administrator command
+2025-02-03 04:34:03.028 CET [21984] FATAL:  terminating connection due to administrator command
+2025-02-03 04:34:03.028 CET [25940] FATAL:  terminating connection due to administrator command
+2025-02-03 04:34:03.028 CET [30104] FATAL:  terminating connection due to administrator command
+2025-02-03 04:34:03.028 CET [3032] FATAL:  terminating connection due to administrator command
+2025-02-03 04:34:03.029 CET [34964] FATAL:  terminating connection due to administrator command
+2025-02-03 04:34:03.029 CET [28540] FATAL:  terminating connection due to administrator command
+2025-02-03 04:34:03.029 CET [32280] FATAL:  terminating connection due to administrator command
+2025-02-03 04:34:03.029 CET [32020] FATAL:  terminating connection due to administrator command
+2025-02-03 04:34:03.029 CET [25936] FATAL:  terminating connection due to administrator command
+2025-02-03 04:34:03.029 CET [1828] LOG:  background worker "logical replication launcher" (PID 16444) exited with exit code 1
+2025-02-03 04:34:03.036 CET [35644] LOG:  shutting down
+2025-02-03 04:34:03.037 CET [35644] LOG:  checkpoint starting: shutdown immediate
+2025-02-03 04:34:03.045 CET [35644] LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.001 s, sync=0.001 s, total=0.010 s; sync files=0, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=4131 kB; lsn=0/3A9D918, redo lsn=0/3A9D918
+2025-02-03 04:34:03.062 CET [1828] LOG:  database system is shut down
